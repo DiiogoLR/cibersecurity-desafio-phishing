@@ -1,4 +1,4 @@
-# Phishing para captura de senhas do Facebook
+# Phishing para captura de senhas do Instagram
 
 ### Ferramentas
 
@@ -17,5 +17,7 @@
 - URL para clone: http://www.facebook.com
 
 ### Resutados
+Página clonada do Instagram e resultados obtidos no Kali linux
+![Alt text](./pagina.png "Optional title")
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](./resultados.png "Optional title")
